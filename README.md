@@ -8,6 +8,7 @@ Requiere la instalación de tensorflow 1.13 para poder utuilizar la función log
 !pip install tensorflow==1.13.0rc0
 
 Reemplazar la ruta de las imagenes en la parte:
+
 image = skimage.io.imread('/content/pasearmascotas.jpg')
 
 
