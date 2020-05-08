@@ -24,6 +24,8 @@ Se toman 30 frames por segundo, se procesan 3 frames por minuto aproximadamente.
 
 Se genera el archivo out.mp4
 
+![imagen](https://github.com/MagnoParra/Python-para-ciencia-de-datos.-Detector-de-mascotas/blob/master/Detector%20de%20mascotas.%20Perro.mp4  "Demo")
+
 
 
 Basado en:
